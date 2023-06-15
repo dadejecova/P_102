@@ -17,6 +17,7 @@ set_c3 = set_a.difference(set_b)
 print(set_c3)
 print(set_a - set_b)
 
+# diferencia simetrica
 set_c4 = set_a.symmetric_difference(set_b)
 print(set_c4)
 print(set_a ^ set_b)
